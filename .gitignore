@@ -1,0 +1,19 @@
+# Ambientes Virtuais (Pasta onde ficam as bibliotecas instaladas)
+venv/
+env/
+.env
+
+# Dados (Arquivos pesados que baixaremos do DataSUS)
+# No mercado, os dados ficam em Buckets (S3/Azure) ou bancos, não no Git.
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de sistema e temporários
+__pycache__/
+*.py[cod]
+.DS_Store
