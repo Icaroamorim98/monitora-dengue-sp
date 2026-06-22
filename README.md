@@ -1,6 +1,6 @@
 # Monitora Dengue SP 🦟
 
-![Monitora Dengue SP](Monitora%20Dengue-Sp.png)
+![Monitora Dengue SP](Banner%20final%20monitora-dengue-sp.png)
 
 ## 📌 Visão Geral
 Projeto de Data Science para análise e visualização dos casos de **dengue no município de São Paulo (capital)** em **2023**. O fluxo cobre desde a extração dos dados brutos do SINAN/DATASUS, passando pelo tratamento e padronização, até a entrega de uma base limpa pronta para um **dashboard no Power BI** — utilizado como base para um panfleto informativo.
